@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-09T23:30:50Z" name="Default suite" finished-at="2023-05-09T23:30:50Z" duration-ms="29">
+  <suite started-at="2023-05-21T22:15:01Z" name="Default suite" finished-at="2023-05-21T22:15:01Z" duration-ms="16">
     <groups>
     </groups>
-    <test started-at="2023-05-09T23:30:50Z" name="Default test" finished-at="2023-05-09T23:30:50Z" duration-ms="29">
-      <class name="com.JavaCodingPractices.FindOut2ndHighestNumberFromArray">
-        <test-method signature="FindOut2ndHighestNumber()[pri:0, instance:com.JavaCodingPractices.FindOut2ndHighestNumberFromArray@4ebff610]" started-at="2023-05-09T23:30:50Z" name="FindOut2ndHighestNumber" finished-at="2023-05-09T23:30:50Z" duration-ms="12" status="PASS">
+    <test started-at="2023-05-21T22:15:01Z" name="Default test" finished-at="2023-05-21T22:15:01Z" duration-ms="16">
+      <class name="com.JavaCodingPractices.BreakAndContinueLoop">
+        <test-method signature="continueLoop()[pri:0, instance:com.JavaCodingPractices.BreakAndContinueLoop@60410cd]" started-at="2023-05-21T22:15:01Z" name="continueLoop" finished-at="2023-05-21T22:15:01Z" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- FindOut2ndHighestNumber -->
-      </class> <!-- com.JavaCodingPractices.FindOut2ndHighestNumberFromArray -->
+        </test-method> <!-- continueLoop -->
+      </class> <!-- com.JavaCodingPractices.BreakAndContinueLoop -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
